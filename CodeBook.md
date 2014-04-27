@@ -1,5 +1,7 @@
-Tidy Data Set - 2014
+## Tidy Data Set - 2014
 ====================
+
+This codebook provides definition of the average signals per activity and subject in the given period of time.
 
 activity
 	The actions performed by the subject for observation.
@@ -42,3 +44,107 @@ subject	2
 		28. Volunteer 28
 		29. Volunteer 29
 		30. Volunteer 30
+		
+tBodyAcc-mean()-X
+	The average body acceleration on the x-axial signals per activity and subject.
+	
+tBodyAcc-mean()-Y
+	The average body acceleration on the y-axial signals per activity and subject.
+
+tBodyAcc-mean()-Z
+	The average body acceleration on the z-axial signals per activity and subject.
+
+tBodyAcc-std()-X
+	The average standard deviation of the body acceleration on the x-axial signals per activity and subject.
+
+tBodyAcc-std()-Y
+	The average standard deviation of the body acceleration on the y-axial signals per activity and subject.
+
+tBodyAcc-std()-Z
+	The average standard deviation of the body acceleration on the z-axial signals per activity and subject.
+
+tGravityAcc-mean()-X
+	The average mean of the gravity acceleration signals on the x-axial per activity and subject.
+
+tGravityAcc-mean()-Y
+	The average mean of the gravity acceleration signals on the y-axial per activity and subject.
+
+tGravityAcc-mean()-Z
+	The average mean of the gravity acceleration signals on the z-axial per activity and subject.
+
+tGravityAcc-std()-X
+	The average standard deviation of the gravity acceleration signals on the x-axial per activity and subject.
+
+tGravityAcc-std()-Y
+	The average standard deviation of the gravity acceleration signals on the y-axial per activity and subject.
+
+tGravityAcc-std()-Z
+	The average standard deviation of the gravity acceleration signals on the z-axial per activity and subject.
+
+tBodyAccJerk-mean()-X
+	The average mean of the linear acceleration jerk signals on the x-axial per activity and subject.
+
+tBodyAccJerk-mean()-Y
+	The average mean of the linear acceleration jerk signals on the y-axial per activity and subject.
+
+tBodyAccJerk-mean()-Z
+	The average mean of the linear acceleration jerk signals on the z-axial per activity and subject.
+
+tBodyAccJerk-std()-X
+	The average standard deviation of the linear acceleration jerk signals on the x-axial per activity and subject.
+
+tBodyAccJerk-std()-Y
+	The average standard deviation of the linear acceleration jerk signals on the y-axial per activity and subject.
+
+tBodyAccJerk-std()-Z
+	The average standard deviation of the linear acceleration jerk signals on the z-axial per activity and subject.
+
+19 tBodyGyro-mean()-X
+20 tBodyGyro-mean()-Y
+21 tBodyGyro-mean()-Z
+22 tBodyGyro-std()-X
+23 tBodyGyro-std()-Y
+24 tBodyGyro-std()-Z
+25 tBodyGyroJerk-mean()-X
+26 tBodyGyroJerk-mean()-Y
+27 tBodyGyroJerk-mean()-Z
+28 tBodyGyroJerk-std()-X
+29 tBodyGyroJerk-std()-Y
+30 tBodyGyroJerk-std()-Z
+31 tBodyAccMag-mean()
+32 tBodyAccMag-std()
+33 tGravityAccMag-mean()
+34 tGravityAccMag-std()
+35 tBodyAccJerkMag-mean()
+36 tBodyAccJerkMag-std()
+37 tBodyGyroMag-mean()
+38 tBodyGyroMag-std()
+39 tBodyGyroJerkMag-mean()
+40 tBodyGyroJerkMag-std()
+41 fBodyAcc-mean()-X
+42 fBodyAcc-mean()-Y
+43 fBodyAcc-mean()-Z
+44 fBodyAcc-std()-X
+45 fBodyAcc-std()-Y
+46 fBodyAcc-std()-Z
+47 fBodyAccJerk-mean()-X
+48 fBodyAccJerk-mean()-Y
+49 fBodyAccJerk-mean()-Z
+50 fBodyAccJerk-std()-X
+51 fBodyAccJerk-std()-Y
+52 fBodyAccJerk-std()-Z
+53 fBodyGyro-mean()-X
+54 fBodyGyro-mean()-Y
+55 fBodyGyro-mean()-Z
+56 fBodyGyro-std()-X
+57 fBodyGyro-std()-Y
+58 fBodyGyro-std()-Z
+59 fBodyAccMag-mean()
+60 fBodyAccMag-std()
+61 fBodyBodyAccJerkMag-mean()
+62 fBodyBodyAccJerkMag-std()
+63 fBodyBodyGyroMag-mean()
+64 fBodyBodyGyroMag-std()
+65 fBodyBodyGyroJerkMag-mean()
+66 fBodyBodyGyroJerkMag-std()
+
