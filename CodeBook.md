@@ -12,13 +12,13 @@ This codebook provides definition of the average signals per activity and subjec
 ### Features
 
 activity <br/>
-	The actions performed by the subject for observation.<br/>
-		WALKING				Observe Volunteers while walking.<br/>
-		WALKING_UPSTAIRS	Observe volunteers while walking upstairs.<br/>
-		WALKING_DOWNSTAIRS	Observe volunteers while walking downstairs.<br/>
-		SITTING				Observe volunteers while sitting.<br/>
-		STANDING			Obvserve voluteers while standing.<br/>
-		LAYING				Observe volunteers while Laying.<br/>
+>	The actions performed by the subject for observation.<br/>
+>>		WALKING				Observe Volunteers while walking.<br/>
+>>		WALKING_UPSTAIRS	Observe volunteers while walking upstairs.<br/>
+>>		WALKING_DOWNSTAIRS	Observe volunteers while walking downstairs.<br/>
+>>		SITTING				Observe volunteers while sitting.<br/>
+>>		STANDING			Obvserve voluteers while standing.<br/>
+>>		LAYING				Observe volunteers while Laying.<br/>
 
 subject	2
 	Volunteers between within the age 19-48 years involved in the experiments.
