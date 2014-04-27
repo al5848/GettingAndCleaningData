@@ -20,234 +20,233 @@ activity <br/>
 >>		STANDING			Obvserve voluteers while standing.<br/>
 >>		LAYING				Observe volunteers while Laying.<br/>
 
-subject	2
-	Volunteers between within the age 19-48 years involved in the experiments.
-		01. Volunteer 1
-		02. Volunteer 2
-		03. Volunteer 3
-		04. Volunteer 4
-		05. Volunteer 5
-		06. Volunteer 6
-		07. Volunteer 7
-		08. Volunteer 8
-		09. Volunteer 9
-		10. Volunteer 10
-		11. Volunteer 11
-		12. Volunteer 12
-		13. Volunteer 13
-		14. Volunteer 14
-		15. Volunteer 15
-		16. Volunteer 16
-		17. Volunteer 17
-		18. Volunteer 18
-		19. Volunteer 19
-		20. Volunteer 20
-		21. Volunteer 21
-		22. Volunteer 22
-		23. Volunteer 23
-		24. Volunteer 24
-		25. Volunteer 25
-		26. Volunteer 26
-		27. Volunteer 27
-		28. Volunteer 28
-		29. Volunteer 29
-		30. Volunteer 30
+subject	2  <br/>
+>	Volunteers between within the age 19-48 years involved in the experiments.  <br/>
+>>		01. Volunteer 1  <br/>
+>>		02. Volunteer 2  <br/>
+>>		03. Volunteer 3  <br/>
+>>		04. Volunteer 4  <br/>
+>>		05. Volunteer 5  <br/>
+>>		06. Volunteer 6  <br/>
+>>		07. Volunteer 7  <br/>
+>>		08. Volunteer 8  <br/>
+>>		09. Volunteer 9  <br/>
+>>		10. Volunteer 10  <br/>
+>>		11. Volunteer 11  <br/>
+>>		12. Volunteer 12  <br/>
+>>		13. Volunteer 13  <br/>
+>>		14. Volunteer 14  <br/>
+>>		15. Volunteer 15  <br/>
+>>		16. Volunteer 16  <br/>
+>>		17. Volunteer 17  <br/>
+>>		18. Volunteer 18  <br/>
+>>		19. Volunteer 19  <br/>
+>>		20. Volunteer 20  <br/>
+>>		21. Volunteer 21  <br/>
+>>		22. Volunteer 22  <br/>
+>>		23. Volunteer 23  <br/>
+>>		24. Volunteer 24  <br/>
+>>		25. Volunteer 25  <br/>
+>>		26. Volunteer 26  <br/>
+>>		27. Volunteer 27  <br/>
+>>		28. Volunteer 28  <br/>
+>>		29. Volunteer 29  <br/>
+>>		30. Volunteer 30  <br/>
 		
-tBodyAcc-mean()-X
-	The average body acceleration on the x-axial signals per activity and subject.
+tBodyAcc-mean()-X  <br />
+>	The average body acceleration on the x-axial signals per activity and subject.  <br />
 	
-tBodyAcc-mean()-Y
-	The average body acceleration on the y-axial signals per activity and subject.
+tBodyAcc-mean()-Y  <br />
+>	The average body acceleration on the y-axial signals per activity and subject.  <br />
 
-tBodyAcc-mean()-Z
-	The average body acceleration on the z-axial signals per activity and subject.
+tBodyAcc-mean()-Z  <br />
+>	The average body acceleration on the z-axial signals per activity and subject.  <br />
 
-tBodyAcc-std()-X
-	The average standard deviation of the body acceleration on the x-axial signals per activity and subject.
+tBodyAcc-std()-X  <br />
+>	The average standard deviation of the body acceleration on the x-axial signals per activity and subject.  <br />
 
-tBodyAcc-std()-Y
-	The average standard deviation of the body acceleration on the y-axial signals per activity and subject.
+tBodyAcc-std()-Y  <br />
+>	The average standard deviation of the body acceleration on the y-axial signals per activity and subject.  <br />
 
-tBodyAcc-std()-Z
-	The average standard deviation of the body acceleration on the z-axial signals per activity and subject.
+tBodyAcc-std()-Z  <br />
+>	The average standard deviation of the body acceleration on the z-axial signals per activity and subject.  <br />
 
-tGravityAcc-mean()-X
-	The average mean of the gravity acceleration signals on the x-axial per activity and subject.
+tGravityAcc-mean()-X  <br />
+>	The average mean of the gravity acceleration signals on the x-axial per activity and subject.  <br />
 
-tGravityAcc-mean()-Y
-	The average mean of the gravity acceleration signals on the y-axial per activity and subject.
+tGravityAcc-mean()-Y  <br />
+>	The average mean of the gravity acceleration signals on the y-axial per activity and subject.  <br />
 
-tGravityAcc-mean()-Z
-	The average mean of the gravity acceleration signals on the z-axial per activity and subject.
+tGravityAcc-mean()-Z  <br />
+>	The average mean of the gravity acceleration signals on the z-axial per activity and subject.  <br />
 
-tGravityAcc-std()-X
-	The average standard deviation of the gravity acceleration signals on the x-axial per activity and subject.
+tGravityAcc-std()-X  <br />
+>	The average standard deviation of the gravity acceleration signals on the x-axial per activity and subject.  <br />
 
-tGravityAcc-std()-Y
-	The average standard deviation of the gravity acceleration signals on the y-axial per activity and subject.
+tGravityAcc-std()-Y  <br />
+>	The average standard deviation of the gravity acceleration signals on the y-axial per activity and subject.  <br />
 
-tGravityAcc-std()-Z
-	The average standard deviation of the gravity acceleration signals on the z-axial per activity and subject.
+tGravityAcc-std()-Z  <br />
+>	The average standard deviation of the gravity acceleration signals on the z-axial per activity and subject.  <br />
 
-tBodyAccJerk-mean()-X
-	The average mean of the linear acceleration jerk signals on the x-axial per activity and subject.
+tBodyAccJerk-mean()-X  <br />
+>	The average mean of the linear acceleration jerk signals on the x-axial per activity and subject.  <br />
 
-tBodyAccJerk-mean()-Y
-	The average mean of the linear acceleration jerk signals on the y-axial per activity and subject.
+tBodyAccJerk-mean()-Y  <br />
+>	The average mean of the linear acceleration jerk signals on the y-axial per activity and subject.  <br />
 
-tBodyAccJerk-mean()-Z
-	The average mean of the linear acceleration jerk signals on the z-axial per activity and subject.
+tBodyAccJerk-mean()-Z  <br />
+>	The average mean of the linear acceleration jerk signals on the z-axial per activity and subject.  <br />
 
-tBodyAccJerk-std()-X
-	The average standard deviation of the linear acceleration jerk signals on the x-axial per activity and subject.
+tBodyAccJerk-std()-X  <br />
+>	The average standard deviation of the linear acceleration jerk signals on the x-axial per activity and subject.  <br />
 
-tBodyAccJerk-std()-Y
-	The average standard deviation of the linear acceleration jerk signals on the y-axial per activity and subject.
+tBodyAccJerk-std()-Y  <br />
+>	The average standard deviation of the linear acceleration jerk signals on the y-axial per activity and subject.  <br />
 
-tBodyAccJerk-std()-Z
-	The average standard deviation of the linear acceleration jerk signals on the z-axial per activity and subject.
+tBodyAccJerk-std()-Z  <br />
+>	The average standard deviation of the linear acceleration jerk signals on the z-axial per activity and subject.  <br />
 
-tBodyGyro-mean()-X
-	The average mean of the  angular velocity signals on the x-axial per activity and subject.
+tBodyGyro-mean()-X  <br />
+>	The average mean of the  angular velocity signals on the x-axial per activity and subject.  <br />
 
-tBodyGyro-mean()-Y
-	The average mean of the  angular velocity signals on the y-axial per activity and subject.
+tBodyGyro-mean()-Y  <br />
+>	The average mean of the  angular velocity signals on the y-axial per activity and subject.  <br />
 
-tBodyGyro-mean()-Z
-	The average mean of the  angular velocity signals on the x-axial per activity and subject.
+tBodyGyro-mean()-Z  <br />
+>	The average mean of the  angular velocity signals on the x-axial per activity and subject.  <br />
 	
-tBodyGyro-std()-X
-	The average standard deviation of the  angular velocity signals on the x-axial per activity and subject.
+tBodyGyro-std()-X  <br />
+>	The average standard deviation of the  angular velocity signals on the x-axial per activity and subject.  <br />
 
-tBodyGyro-std()-Y
-	The average standard deviation of the  angular velocity signals on the y-axial per activity and subject.
+tBodyGyro-std()-Y  <br />
+>	The average standard deviation of the  angular velocity signals on the y-axial per activity and subject.  <br />
 	
-tBodyGyro-std()-Z
-	The average standard deviation of the  angular velocity signals on the z-axial per activity and subject.
+tBodyGyro-std()-Z  <br />
+>	The average standard deviation of the  angular velocity signals on the z-axial per activity and subject.  <br />
 
-tBodyGyroJerk-mean()-X
-	The average mean of the  angular velocity jerk signals on the x-axial per activity and subject.
+tBodyGyroJerk-mean()-X  <br />
+>	The average mean of the  angular velocity jerk signals on the x-axial per activity and subject.  <br />
 
-tBodyGyroJerk-mean()-Y
-	The average mean of the  angular velocity jerk signals on the y-axial per activity and subject.
+tBodyGyroJerk-mean()-Y  <br />
+>	The average mean of the  angular velocity jerk signals on the y-axial per activity and subject.  <br />
 
-tBodyGyroJerk-mean()-Z
-	The average mean of the  angular velocity jerk signals on the z-axial per activity and subject.
+tBodyGyroJerk-mean()-Z  <br />
+>	The average mean of the  angular velocity jerk signals on the z-axial per activity and subject.  <br />
 
-tBodyGyroJerk-std()-X
-	The average standard deviation of the  angular velocity jerk signals on the x-axial per activity and subject.
+tBodyGyroJerk-std()-X  <br />
+>	The average standard deviation of the  angular velocity jerk signals on the x-axial per activity and subject.  <br />
 
-tBodyGyroJerk-std()-Y
-	The average standard deviation of the  angular velocity jerk signals on the y-axial per activity and subject.
+tBodyGyroJerk-std()-Y  <br />
+>	The average standard deviation of the  angular velocity jerk signals on the y-axial per activity and subject.  <br />
 
-tBodyGyroJerk-std()-Z
-	The average standard deviation of the  angular velocity jerk signals on the z-axial per activity and subject.
+tBodyGyroJerk-std()-Z  <br />
+>	The average standard deviation of the  angular velocity jerk signals on the z-axial per activity and subject.  <br />
 
-tBodyAccMag-mean()
-	The average mean of the body acceleration magnitude signals per activity and subject.
+tBodyAccMag-mean()  <br />
+>	The average mean of the body acceleration magnitude signals per activity and subject.  <br />
 
-tBodyAccMag-std()
-	The average standard deviation of the body acceleration magnitude signals  per activity and subject.
+tBodyAccMag-std()  <br />
+>	The average standard deviation of the body acceleration magnitude signals  per activity and subject.  <br />
 
-tGravityAccMag-mean()
-	The average mean of the gravity acceleration magnitude signals per activity and subject.
+tGravityAccMag-mean()  <br />
+>	The average mean of the gravity acceleration magnitude signals per activity and subject.  <br />
 
-tGravityAccMag-std()
-	The average standard deviation of the gravity acceleration magnitude signals per activity and subject.
+tGravityAccMag-std()  <br />
+>	The average standard deviation of the gravity acceleration magnitude signals per activity and subject.  <br />
 	
-tBodyAccJerkMag-mean()
-	The average mean of the body acceleration magnitude jerk signals per activity and subject.
+tBodyAccJerkMag-mean()  <br />
+>	The average mean of the body acceleration magnitude jerk signals per activity and subject.  <br />
 
-tBodyAccJerkMag-std()
-	The average standard deviation of the body acceleration jerk magnitude signals per activity and subject.
+tBodyAccJerkMag-std()  <br />
+>	The average standard deviation of the body acceleration jerk magnitude signals per activity and subject.  <br />
 
-tBodyGyroMag-mean()
-	The average mean of the  angular  magnitude signals per activity and subject.
+tBodyGyroMag-mean()  <br />
+>	The average mean of the  angular  magnitude signals per activity and subject.  <br />
 
-tBodyGyroMag-std()
-	The average standard deviation of the gravity angular magnitude signals per activity and subject.
+tBodyGyroMag-std()  <br />
+>	The average standard deviation of the gravity angular magnitude signals per activity and subject.  <br />
 	
-tBodyGyroJerkMag-mean()
-	The average mean of the body angular jerk magnitude signals per activity and subject.
+tBodyGyroJerkMag-mean()  <br />
+>	The average mean of the body angular jerk magnitude signals per activity and subject.  <br />
 
-tBodyGyroJerkMag-std()
-	The average standard deviation of the body angular jerk magnitude signals per activity and subject.
+tBodyGyroJerkMag-std()  <br />
+>	The average standard deviation of the body angular jerk magnitude signals per activity and subject.  <br />
 
-fBodyAcc-mean()-X
-	The average mean of the fast fourier transform acceleration signals on x-axial per activity and subject.
+fBodyAcc-mean()-X  <br />
+>	The average mean of the fast fourier transform acceleration signals on x-axial per activity and subject.  <br />
 
-fBodyAcc-mean()-Y
-	The average mean of the fast fourier transform acceleration signals on y-axial per activity and subject.
+fBodyAcc-mean()-Y  <br />
+>	The average mean of the fast fourier transform acceleration signals on y-axial per activity and subject.  <br />
 
-fBodyAcc-mean()-Z
-	The average mean of the fast fourier transform acceleration signals on z-axial per activity and subject.
+fBodyAcc-mean()-Z  <br />
+>	The average mean of the fast fourier transform acceleration signals on z-axial per activity and subject.  <br />
 
-fBodyAcc-std()-X
-	The average standard deviation of the fast fourier transform acceleration signals on x-axial per activity and subject.
+fBodyAcc-std()-X  <br />
+>	The average standard deviation of the fast fourier transform acceleration signals on x-axial per activity and subject.  <br />
 
-fBodyAcc-std()-Y
-	The average standard deviation of the fast fourier transform acceleration signals on y-axial per activity and subject.
+fBodyAcc-std()-Y  <br />
+>	The average standard deviation of the fast fourier transform acceleration signals on y-axial per activity and subject.  <br />
 
-fBodyAcc-std()-Z
-	The average standard deviation of the fast fourier transform acceleration signals on z-axial per activity and subject.
+fBodyAcc-std()-Z  <br />
+>	The average standard deviation of the fast fourier transform acceleration signals on z-axial per activity and subject.  <br />
 
-fBodyAccJerk-mean()-X
-	The average mean of the fast fourier transform acceleration jerk signals on x-axial per activity and subject.
+fBodyAccJerk-mean()-X  <br />
+>	The average mean of the fast fourier transform acceleration jerk signals on x-axial per activity and subject.  <br />
 
-fBodyAccJerk-mean()-Y
-	The average mean of the fast fourier transform acceleration jerk signals on y-axial per activity and subject.
+fBodyAccJerk-mean()-Y  <br />
+>	The average mean of the fast fourier transform acceleration jerk signals on y-axial per activity and subject.  <br />
 
-fBodyAccJerk-mean()-Z
-	The average mean of the fast fourier transform acceleration jerk signals on z-axial per activity and subject.
+fBodyAccJerk-mean()-Z  <br />
+>	The average mean of the fast fourier transform acceleration jerk signals on z-axial per activity and subject.  <br />
 	
-fBodyAccJerk-std()-X
-	The average standard deviation of the fast fourier transform acceleration jerk signals on x-axial per activity and subject.
+fBodyAccJerk-std()-X  <br />
+>	The average standard deviation of the fast fourier transform acceleration jerk signals on x-axial per activity and subject.  <br />
 
-fBodyAccJerk-std()-Y
-	The average standard deviation of the fast fourier transform acceleration jerk signals on y-axial per activity and subject.
+fBodyAccJerk-std()-Y  <br />
+>	The average standard deviation of the fast fourier transform acceleration jerk signals on y-axial per activity and subject.  <br />
 
-fBodyAccJerk-std()-Z
-	The average standard deviation of the fast fourier transform acceleration jerk signals on z-axial per activity and subject.
+fBodyAccJerk-std()-Z  <br />
+>	The average standard deviation of the fast fourier transform acceleration jerk signals on z-axial per activity and subject.  <br />
 
-fBodyGyro-mean()-X
-	The average mean of the fast fourier transform angular signals on x-axial per activity and subject.
+fBodyGyro-mean()-X  <br />
+>	The average mean of the fast fourier transform angular signals on x-axial per activity and subject.  <br />
 
-fBodyGyro-mean()-Y
-	The average mean of the fast fourier transform angular signals on y-axial per activity and subject.
+fBodyGyro-mean()-Y  <br />
+>	The average mean of the fast fourier transform angular signals on y-axial per activity and subject.  <br />
 
-fBodyGyro-mean()-Z
-	The average mean of the fast fourier transform angular signals on z-axial per activity and subject.
+fBodyGyro-mean()-Z  <br />
+>	The average mean of the fast fourier transform angular signals on z-axial per activity and subject.  <br />
 
-fBodyGyro-std()-X
-	The average standard deviation of the fast fourier transform angular signals on x-axial per activity and subject.
+fBodyGyro-std()-X  <br />
+>	The average standard deviation of the fast fourier transform angular signals on x-axial per activity and subject.  <br />
 
-fBodyGyro-std()-Y
-	The average standard deviation of the fast fourier transform angular signals on y-axial per activity and subject.
+fBodyGyro-std()-Y  <br />
+>	The average standard deviation of the fast fourier transform angular signals on y-axial per activity and subject.  <br />
 	
-fBodyGyro-std()-Z
-	The average standard deviation of the fast fourier transform angular signals on x-axial per activity and subject.
+fBodyGyro-std()-Z  <br />
+>	The average standard deviation of the fast fourier transform angular signals on x-axial per activity and subject.  <br />
 
-fBodyAccMag-mean()
-	The average mean of the fast fourier transform body acceleration signals per activity and subject.
+fBodyAccMag-mean()  <br />
+>	The average mean of the fast fourier transform body acceleration signals per activity and subject.  <br />
 
-fBodyAccMag-std()
-	The average standard deviation of the fast fourier transform body acceleration signals per activity and subject.
+fBodyAccMag-std()  <br />
+>	The average standard deviation of the fast fourier transform body acceleration signals per activity and subject.  <br />
 
-fBodyBodyAccJerkMag-mean()
-	The average mean of the fast fourier transform body acceleration jerk signals per activity and subject.
+fBodyBodyAccJerkMag-mean()  <br />
+>	The average mean of the fast fourier transform body acceleration jerk signals per activity and subject.  <br />
 
-fBodyBodyAccJerkMag-std()
-	The average standard deviation of the fast fourier transform body acceleration signals per activity and subject.
+fBodyBodyAccJerkMag-std()  <br />
+>	The average standard deviation of the fast fourier transform body acceleration signals per activity and subject.  <br />
 
-fBodyBodyGyroMag-mean()
-	The average mean of the fast fourier transform body angular magnitude signals per activity and subject.
+fBodyBodyGyroMag-mean()  <br />
+>	The average mean of the fast fourier transform body angular magnitude signals per activity and subject.  <br />
 
-fBodyBodyGyroMag-std()
-	The average standard deviation of the fast fourier transform body angular magnitude signals per activity and subject.
+fBodyBodyGyroMag-std()  <br />
+>	The average standard deviation of the fast fourier transform body angular magnitude signals per activity and subject.  <br />
 
-fBodyBodyGyroJerkMag-mean()
-	The average mean of the fast fourier transform body angular magnitude jerk signals per activity and subject.
+fBodyBodyGyroJerkMag-mean()  <br />
+>	The average mean of the fast fourier transform body angular magnitude jerk signals per activity and subject.  <br />
 
-fBodyBodyGyroJerkMag-std()
-	The average standard deviation of the fast fourier transform body angular magnitude jerk signals per activity and subject.
-
+fBodyBodyGyroJerkMag-std()  <br />
+>	The average standard deviation of the fast fourier transform body angular magnitude jerk signals per activity and subject.  <br />
