@@ -159,17 +159,39 @@ tBodyGyroMag-mean()
 tBodyGyroMag-std()
 	The average standard deviation of the gravity angular magnitude signals per activity and subject.
 	
-39 tBodyGyroJerkMag-mean()
-40 tBodyGyroJerkMag-std()
-41 fBodyAcc-mean()-X
-42 fBodyAcc-mean()-Y
-43 fBodyAcc-mean()-Z
-44 fBodyAcc-std()-X
-45 fBodyAcc-std()-Y
-46 fBodyAcc-std()-Z
-47 fBodyAccJerk-mean()-X
-48 fBodyAccJerk-mean()-Y
-49 fBodyAccJerk-mean()-Z
+tBodyGyroJerkMag-mean()
+	The average mean of the body angular jerk magnitude signals per activity and subject.
+
+tBodyGyroJerkMag-std()
+	The average standard deviation of the body angular jerk magnitude signals per activity and subject.
+
+fBodyAcc-mean()-X
+	The average mean of the fast fourier transform acceleration signals on x-axial per activity and subject.
+
+fBodyAcc-mean()-Y
+	The average mean of the fast fourier transform acceleration signals on y-axial per activity and subject.
+
+fBodyAcc-mean()-Z
+	The average mean of the fast fourier transform acceleration signals on z-axial per activity and subject.
+
+fBodyAcc-std()-X
+	The average standard deviation of the fast fourier transform acceleration signals on x-axial per activity and subject.
+
+fBodyAcc-std()-Y
+	The average standard deviation of the fast fourier transform acceleration signals on y-axial per activity and subject.
+
+fBodyAcc-std()-Z
+	The average standard deviation of the fast fourier transform acceleration signals on z-axial per activity and subject.
+
+fBodyAccJerk-mean()-X
+	The average mean of the fast fourier transform acceleration jerk signals on x-axial per activity and subject.
+
+fBodyAccJerk-mean()-Y
+	The average mean of the fast fourier transform acceleration jerk signals on y-axial per activity and subject.
+
+fBodyAccJerk-mean()-Z
+	The average mean of the fast fourier transform acceleration jerk signals on z-axial per activity and subject.
+	
 50 fBodyAccJerk-std()-X
 51 fBodyAccJerk-std()-Y
 52 fBodyAccJerk-std()-Z
