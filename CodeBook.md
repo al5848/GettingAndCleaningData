@@ -3,12 +3,12 @@ Tidy Data Set - 2014
 
 activity
 	The actions performed by the subject for observation.
-		WALKING
-		WALKING_UPSTAIRS
-		WALKING_DOWNSTAIRS
-		SITTING
-		STANDING
-		LAYING
+		WALKING				Observe Volunteers while walking.
+		WALKING_UPSTAIRS	Observe volunteers while walking upstairs.
+		WALKING_DOWNSTAIRS	Observe volunteers while walking downstairs.
+		SITTING				Observe volunteers while sitting.
+		STANDING			Obvserve voluteers while standing.
+		LAYING				Observe volunteers while Laying.
 
 subject	2
 	Volunteers between within the age 19-48 years involved in the experiments.
