@@ -3,6 +3,14 @@
 
 This codebook provides definition of the average signals per activity and subject in the given period of time.
 
+### Assumptions
+
+1. The data in the inertial folder of the train and test dataset is not need in this assignment.
+
+
+
+### Features
+
 activity
 	The actions performed by the subject for observation.
 		WALKING				Observe Volunteers while walking.
@@ -192,21 +200,54 @@ fBodyAccJerk-mean()-Y
 fBodyAccJerk-mean()-Z
 	The average mean of the fast fourier transform acceleration jerk signals on z-axial per activity and subject.
 	
-50 fBodyAccJerk-std()-X
-51 fBodyAccJerk-std()-Y
-52 fBodyAccJerk-std()-Z
-53 fBodyGyro-mean()-X
-54 fBodyGyro-mean()-Y
-55 fBodyGyro-mean()-Z
-56 fBodyGyro-std()-X
-57 fBodyGyro-std()-Y
-58 fBodyGyro-std()-Z
-59 fBodyAccMag-mean()
-60 fBodyAccMag-std()
-61 fBodyBodyAccJerkMag-mean()
-62 fBodyBodyAccJerkMag-std()
-63 fBodyBodyGyroMag-mean()
-64 fBodyBodyGyroMag-std()
-65 fBodyBodyGyroJerkMag-mean()
-66 fBodyBodyGyroJerkMag-std()
+fBodyAccJerk-std()-X
+	The average standard deviation of the fast fourier transform acceleration jerk signals on x-axial per activity and subject.
+
+fBodyAccJerk-std()-Y
+	The average standard deviation of the fast fourier transform acceleration jerk signals on y-axial per activity and subject.
+
+fBodyAccJerk-std()-Z
+	The average standard deviation of the fast fourier transform acceleration jerk signals on z-axial per activity and subject.
+
+fBodyGyro-mean()-X
+	The average mean of the fast fourier transform angular signals on x-axial per activity and subject.
+
+fBodyGyro-mean()-Y
+	The average mean of the fast fourier transform angular signals on y-axial per activity and subject.
+
+fBodyGyro-mean()-Z
+	The average mean of the fast fourier transform angular signals on z-axial per activity and subject.
+
+fBodyGyro-std()-X
+	The average standard deviation of the fast fourier transform angular signals on x-axial per activity and subject.
+
+fBodyGyro-std()-Y
+	The average standard deviation of the fast fourier transform angular signals on y-axial per activity and subject.
+	
+fBodyGyro-std()-Z
+	The average standard deviation of the fast fourier transform angular signals on x-axial per activity and subject.
+
+fBodyAccMag-mean()
+	The average mean of the fast fourier transform body acceleration signals per activity and subject.
+
+fBodyAccMag-std()
+	The average standard deviation of the fast fourier transform body acceleration signals per activity and subject.
+
+fBodyBodyAccJerkMag-mean()
+	The average mean of the fast fourier transform body acceleration jerk signals per activity and subject.
+
+fBodyBodyAccJerkMag-std()
+	The average standard deviation of the fast fourier transform body acceleration signals per activity and subject.
+
+fBodyBodyGyroMag-mean()
+	The average mean of the fast fourier transform body angular magnitude signals per activity and subject.
+
+fBodyBodyGyroMag-std()
+	The average standard deviation of the fast fourier transform body angular magnitude signals per activity and subject.
+
+fBodyBodyGyroJerkMag-mean()
+	The average mean of the fast fourier transform body angular magnitude jerk signals per activity and subject.
+
+fBodyBodyGyroJerkMag-std()
+	The average standard deviation of the fast fourier transform body angular magnitude jerk signals per activity and subject.
 
